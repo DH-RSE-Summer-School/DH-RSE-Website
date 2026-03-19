@@ -3139,8 +3139,10 @@ input, select, textarea {
 
 .image-banner img {
     width: 100%;
-    height: auto;
-    display: block;
+    height: 30vh;
+    min-height: 200px;
+    max-height: 400px;
+    object-fit: cover;
 }
 
 
