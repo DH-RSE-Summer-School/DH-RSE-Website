@@ -3140,9 +3140,8 @@ input, select, textarea {
 .image-banner img {
     width: 100%;
     height: 30vh;
-    min-height: 200px;
-    max-height: 400px;
-    object-fit: cover;
+    object-fit: contain;
+    background-color: #ffff; /* optional for empty space */
 }
 
 
