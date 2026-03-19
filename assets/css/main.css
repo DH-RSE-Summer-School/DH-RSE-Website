@@ -3131,6 +3131,19 @@ input, select, textarea {
 
 		}
 
+/* image banner */
+.image-banner {
+    width: 100%;
+    margin-top: 2em;
+}
+
+.image-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
 /* Table */
 
 	.table-wrapper {
