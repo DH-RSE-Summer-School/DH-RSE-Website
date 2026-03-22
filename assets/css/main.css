@@ -3498,6 +3498,12 @@ input, select, textarea {
 
 		}
 
+		@media screen and (min-width: 1281px) and (max-width: 1400px) {
+		    #sidebar + #wrapper {
+		        margin-left: 20em;
+		    }
+		}
+
 	#header + #wrapper > .wrapper > .inner {
 		margin: 0 auto;
 	}
